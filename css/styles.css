@@ -6,3 +6,29 @@ h3 {
   text-decoration: underline;
   text-align: center;
 }
+
+.highlight {
+  color: #ff8800;
+  background-color: mediumblue;
+}
+
+.box1 {
+  width: 50%;
+  border: solid black;
+  border-width: 1px;
+  background-color: rgb(185, 185, 185);
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  padding: 5px;
+}
+
+h1 {
+  text-align: left;
+}
+
+.name {
+  text-align: ;
+}
