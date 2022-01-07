@@ -13,7 +13,7 @@ h3 {
 }
 
 .box1 {
-  background-color: rgb(185, 185, 185);
+  background-color: #b9b9b9;
   margin-bottom: 20px;
   box-sizing: content-box;
   display: block;
@@ -29,7 +29,7 @@ h1 {
 }
 
 .name {
-  margin-left: 25%;
+  text-align: center;
 }
 
 .heading-list {
@@ -50,6 +50,7 @@ body {
 .container-color {
   background-color: slategrey;
   border-radius: 25px;
+  box-shadow: 10px 10px 5px rgb(146, 106, 106);
 }
 .other-work {
   text-align: center;
@@ -60,4 +61,14 @@ body {
   background-color: rosybrown;
   border-radius: 25px;
   box-shadow: 10px 10px 5px #36516e;
+}
+
+.navbar {
+  border-radius: 25px;
+  background-color: #b9b9b9;
+}
+
+.navbar-brand {
+  margin-right: 28.5rem;
+  margin-left: 1rem;
 }
