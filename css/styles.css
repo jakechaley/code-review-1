@@ -1,3 +1,8 @@
 .row-image {
   width: 24em;
 }
+
+h3 {
+  text-decoration: underline;
+  text-align: center;
+}
