@@ -101,3 +101,10 @@ body {
 .other-work-showing {
   display: none;
 }
+
+.link {
+  color: black;
+  text-decoration: none;
+  margin-left: 10em;
+  margin-top: 1em;
+}
