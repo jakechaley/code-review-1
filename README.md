@@ -20,7 +20,9 @@ It includes photos, an about me section, and links to other sites._
 
 - _Live Site: https://jakechaley.github.io/code-review-1_
 - _To contribute, clone repo from: https://github.com/jakechaley/code-review-1_
-
+- _Clone Repository to your desktop._
+- _Navigate to the top level of the directory._
+- _Open in VS Code._
 ## Known Bugs
 
 - _No known issues yet_
