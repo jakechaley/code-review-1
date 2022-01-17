@@ -87,9 +87,7 @@ body {
   margin-bottom: 1em;
 }
 
-.hidden {
-  display: none;
-}
+
 
 .other-work-button {
   background-color: rosybrown;
@@ -98,4 +96,8 @@ body {
   margin-left: 33em;
   box-shadow: 4px 3px 13px #4e4343;;
 
+}
+
+.other-work-showing {
+  display: none;
 }
