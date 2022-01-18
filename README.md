@@ -22,7 +22,7 @@ It includes photos, an about me section, and links to other sites._
 - _To contribute, clone repo from: https://github.com/jakechaley/code-review-1_
 - _Clone Repository to your desktop._
 - _Navigate to the top level of the directory._
-- _Open in VS Code._
+- _Open index.html in web browser to view site._
 ## Known Bugs
 
 - _No known issues yet_
